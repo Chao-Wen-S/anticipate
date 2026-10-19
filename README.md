@@ -1,5 +1,7 @@
 # 预判 · ANTICIPATE
 
+### ▶ [**点这里直接玩** → chao-wen-s.github.io/anticipate](https://chao-wen-s.github.io/anticipate/)
+
 一个**读心博弈**：对手每一步都把自己的猜测公开写在棋盘上，然后等你走。
 
 你踩进它圈出的格子，掉一格血。
